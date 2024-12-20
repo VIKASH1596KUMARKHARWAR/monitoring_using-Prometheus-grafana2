@@ -13,5 +13,6 @@ Before getting started, make sure you have Docker and Docker Compose installed o
 ## Getting Started
 
 1. Clone the repository to your local machine  and run :
+ 
    ```
    docker-compose up

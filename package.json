@@ -1,0 +1,17 @@
+{
+  "name": "week26.2-monitoring_using-prometheus",
+  "version": "1.0.0",
+  "description": "Prometheus is an open-source systems monitoring and alerting toolkit originally built at SoundCloud. Since its inception in 2012, Prometheus has become a standalone open-source project and maintained independently by the Prometheus community.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "express": "^4.21.2",
+    "prom-client": "^15.1.3"
+  }
+}
